@@ -24,4 +24,4 @@ Output:
 Simple Interest = 100
 
 ## Author
-Your Name
+Vu Hien
